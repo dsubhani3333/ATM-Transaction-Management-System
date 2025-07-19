@@ -1,0 +1,2 @@
+CREATE DATABASE atm_db;
+USE atm_db;
