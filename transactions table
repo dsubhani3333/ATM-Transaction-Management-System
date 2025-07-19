@@ -1,0 +1,7 @@
+CREATE TABLE transactions (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    user_id INT,
+    type VARCHAR(10),
+    amount DOUBLE,
+    timestamp DATETIME DEFAULT CURRENT_TIMESTAMP
+);
