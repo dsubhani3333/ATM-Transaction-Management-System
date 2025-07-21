@@ -27,12 +27,13 @@ and change PIN. Data is stored in a MySQL database for persistence.
 
 -ATM-Transaction-Management-System/
 - src/com/atm/ 
-- ATM.java 
-- Database.java 
-- Main.java 
-- User.java 
--bin/com/atm/ (compiled .class files)
--Database
--User table
--transactions table
--README.md
+-  ATM.java 
+-  Database.java 
+-  Main.java 
+-  User.java 
+- bin/com/atm/ (compiled .class files)
+- 
+- Database
+- User table
+- transactions table
+- README.md
