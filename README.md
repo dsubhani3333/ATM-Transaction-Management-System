@@ -19,7 +19,7 @@ and change PIN. Data is stored in a MySQL database for persistence.
 
 - Java (JDK 14 or higher recommended)
 - MySQL (5.7 or higher)
-- JDBC (Java Database Connectivity)
+- JDBC (Java Database Connectivity:mysql-connector-java-8.0.21)
 - IDE: Eclipse / IntelliJ IDEA
 ---
 
